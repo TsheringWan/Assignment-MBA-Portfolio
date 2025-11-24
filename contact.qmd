@@ -1,0 +1,43 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+---
+
+::: {.contact-hero}
+## Let’s Connect ✨
+
+I enjoy meeting people who are interested in business, analytics, and global experiences.  
+Whether you want to talk about MBA projects, potential opportunities, or collaboration ideas, I’d be happy to hear from you.
+
+[Email Me](mailto:youremail@example.com){.btn .btn-primary .btn-lg}
+:::
+
+---
+
+### 📬 Direct Contact
+
+- **Email:** [tsheringwangmo9894@gmail.com](mailto:tsheringwangmo9894@gmail.com)  
+- **Location:** Coquitlam, Vancouver, BC, Canada  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/yang-won-4aa66039a/){target="_blank"}  
+
+---
+
+### 🤝 Let’s Work Together
+
+If reaching out about collaboration or a professional opportunity, please share:
+
+1. Who you are  
+2. How you found my portfolio  
+3. What you’d like to collaborate on  
+
+This helps me respond thoughtfully and effectively.
+
+---
+
+### ✨ What I’m Interested In
+
+- Data-informed decision making and business analytics  
+- Operations, process improvement, and digital transformation  
+- Cross-cultural teamwork and global projects  

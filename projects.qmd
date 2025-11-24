@@ -1,0 +1,60 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: false
+---
+
+# Projects & Case Studies 📂
+
+Here are selected projects from my MBA coursework focusing on marketing, analytics, and digital transformation.
+
+---
+
+## Featured Projects
+
+::: {.project-grid}
+
+::: {.project-card}
+### 🎬 Netflix Ad Campaign
+
+Developed a strategic proposal for Netflix’s ad-supported plan to help grow subscribers  
+while balancing ad experience and engagement measures.
+
+**Focus areas:**  
+- Market and consumer insights  
+- Campaign messaging and KPIs  
+- Ethical considerations in ad targeting  
+
+[View Project PDF](files/Netflix Ad Campaign.pdf){target="_blank" .proj-btn}
+:::
+
+::: {.project-card}
+### 🤖 Leveraging AI
+
+Analyzed how global organizations apply **Artificial Intelligence**, **IoT**, and  
+**cloud systems** to improve business processes and decision making.
+
+**Focus areas:**  
+- Vendor technology solutions  
+- Predictive maintenance impacts  
+- Financial and operational benefits  
+
+[View Project PDF](files/Leveraging AI.pdf){target="_blank" .proj-btn}
+:::
+
+::: {.project-card}
+### ⚙️ Optimizing Business Process
+
+A research and simulation project exploring how AI optimizes workflows in Industry 4.0  
+to improve efficiency and customer experience.
+
+**Focus areas:**  
+- AI value chain mapping  
+- Process improvement cases  
+- Strategic outcomes and risks  
+
+[View Project PDF](files/Optimizing Business Process.pdf){target="_blank" .proj-btn}
+:::
+
+:::
